@@ -131,7 +131,7 @@ const App = () => {
         {mostSearched.length > 0 && (
           <section className="mt-10">
             <h2 className="flex items-center gap-2 text-xl font-semibold">
-              🔥 Trending Now
+            Trending Now
             </h2>
 
             <div className="mt-6">
