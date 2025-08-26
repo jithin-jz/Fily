@@ -15,7 +15,7 @@ Search for movies, explore trending titles, and get detailed info — all wrappe
 ---
 
 ## 🖼️ Preview
-(Add a screenshot of your app here)
+![Fily Screenshot](assets/fily.png)
 
 ```markdown
 ![Fily Screenshot](assets/fily.png)
