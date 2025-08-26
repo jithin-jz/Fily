@@ -18,4 +18,4 @@ Search for movies, explore trending titles, and get detailed info — all wrappe
 (Add a screenshot of your app here)
 
 ```markdown
-![Fily Screenshot](./assets/fily.png)
+![Fily Screenshot](assets/fily.png)
