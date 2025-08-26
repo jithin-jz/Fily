@@ -12,9 +12,12 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.1.12",
     "appwrite": "^19.0.0",
+    "lucide-react": "^0.542.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "react-slick": "^0.31.0",
     "react-use": "^17.6.0",
+    "slick-carousel": "^1.8.1",
     "tailwindcss": "^4.1.12"
   },
   "devDependencies": {
