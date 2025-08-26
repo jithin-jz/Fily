@@ -17,5 +17,3 @@ Search for movies, explore trending titles, and get detailed info — all wrappe
 ## 🖼️ Preview
 ![Fily Screenshot](/src/assets/fily.png)
 
-```markdown
-![Fily Screenshot](assets/fily.png)
